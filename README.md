@@ -63,7 +63,7 @@ $ # pull new image from dockerhub
 $ docker pull rev3rse/webmap
 
 $ # run WebMap
-$ curl -sL http://bit.ly/webmapsetup | bash
+$ curl -sL https://github.com/tripledd/WebMap-1 | bash
 ```
 
 ### Run without Docker
