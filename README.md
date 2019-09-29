@@ -48,7 +48,7 @@ $ docker exec -ti webmap /root/token
 
 ### Quick and Dirty
 ```bash
-$ curl -sL http://bit.ly/webmapsetup | bash
+$ curl -sL https://github.com/tripledd/WebMap-1 | bash
 ```
 
 ### Upgrade from previous release
